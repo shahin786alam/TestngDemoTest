@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testng Demo Test Automation Suite" duration-ms="49" started-at="2019-09-14T18:00:11Z" finished-at="2019-09-14T18:00:11Z">
+    <groups>
+    </groups>
+    <test name="Test maven testing" duration-ms="49" started-at="2019-09-14T18:00:11Z" finished-at="2019-09-14T18:00:11Z">
+      <class name="com.pa.tests.DemoTest">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.pa.tests.DemoTest@7f690630]" name="div" duration-ms="16" started-at="2019-09-14T14:00:11Z" finished-at="2019-09-14T14:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="multi()[pri:0, instance:com.pa.tests.DemoTest@7f690630]" name="multi" duration-ms="0" started-at="2019-09-14T14:00:11Z" finished-at="2019-09-14T14:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.pa.tests.DemoTest@7f690630]" name="sub" duration-ms="1" started-at="2019-09-14T14:00:11Z" finished-at="2019-09-14T14:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.pa.tests.DemoTest@7f690630]" name="sum" duration-ms="0" started-at="2019-09-14T14:00:11Z" finished-at="2019-09-14T14:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.pa.tests.DemoTest -->
+      <class name="com.pa.tests.DemoTest1">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.pa.tests.DemoTest1@79b4d0f]" name="div" duration-ms="1" started-at="2019-09-14T14:00:11Z" finished-at="2019-09-14T14:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.pa.tests.DemoTest1@79b4d0f]" name="sub" duration-ms="1" started-at="2019-09-14T14:00:11Z" finished-at="2019-09-14T14:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="multi()[pri:0, instance:com.pa.tests.DemoTest1@79b4d0f]" name="multi" duration-ms="0" started-at="2019-09-14T14:00:11Z" finished-at="2019-09-14T14:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multi -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.pa.tests.DemoTest1@79b4d0f]" name="sum" duration-ms="0" started-at="2019-09-14T14:00:11Z" finished-at="2019-09-14T14:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.pa.tests.DemoTest1 -->
+    </test> <!-- Test maven testing -->
+  </suite> <!-- Testng Demo Test Automation Suite -->
+</testng-results>
